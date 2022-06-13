@@ -1,2 +1,2 @@
 # lines-game
-![grab-landing-page](https://github.com/winnie1312/grab/blob/master/grab-landingpage-winnie.gif)
+![grab-landing-page](https://github.com/aKamrani/lines-game/blob/main/demo.gif)
