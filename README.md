@@ -1,6 +1,6 @@
 # lines-game
 
-a simple sample turn-based game of lines! JS+HTML+CSS
+a simple sample turn-based game of dots and lines! JS+HTML+CSS
 
 
 ### Demo
